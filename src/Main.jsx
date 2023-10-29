@@ -13,7 +13,7 @@ function Main() {
                     data.map((item) => {
                         const {id, url, image,title} = item
                         return(
-                            <div className='group relative  h-[70px] w-[120px]  sm:h-[80px]  sm:w-[160px]  md:h-[110px]  md:w-[200px]  lg:h-[120px]  lg:w-[240px]   xl:h-[120px]  xl:w-[240px]    2xl:h-[150px]  2xl:w-[300px] ml-5 sm:ml-10  md:ml-5 lg:ml-10  mt-2 sm:mt-3  xl:mt-2  2xl:mt-0    overflow-hidden  transition-all duration-300 ease-in rounded border-2 border-blue-100' key={id}>
+                            <div className='group relative  h-[70px] w-[120px]  sm:h-[80px]  sm:w-[160px]  md:h-[110px]  md:w-[200px]  lg:h-[120px]  lg:w-[240px]   xl:h-[120px]  xl:w-[240px]    2xl:h-[150px]  2xl:w-[260px] ml-5 sm:ml-10  md:ml-5 lg:ml-10  mt-2 sm:mt-3  xl:mt-2  2xl:mt-0    overflow-hidden  transition-all duration-300 ease-in rounded border-2 border-blue-100' key={id}>
                                 <a href={url}>
                                     <img className="h-full w-full absolute" src={image} alt="" />
                                     <div className='group-hover:top-[0%] absolute top-full left-0 w-full h-full opacity-90 bg-blue-500 transition-all duration-300 ease-in flex justify-center items-center '>
