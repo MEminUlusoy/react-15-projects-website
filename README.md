@@ -1,6 +1,6 @@
 # React 15 Projects Website
 
--This website consists of 15 react projects
+-This website consists of 15 react projects.
 
 -I have used React, HTML and CSS.
 
