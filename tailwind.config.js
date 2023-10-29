@@ -12,6 +12,8 @@ module.exports = {
         "f4": ['Roboto Slab', "serif"],
       },
     },
+
+  
   },
   plugins: [],
 }
