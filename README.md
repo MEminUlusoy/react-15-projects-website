@@ -11,6 +11,7 @@
 
 Screenshots from Homepage:
 
+![R1](https://github.com/MEminUlusoy/GymProject/assets/68780064/35ee3570-3065-4a26-bdaf-adce2443add1)
 
 <h1>LIVE DEMO</h1>
 
