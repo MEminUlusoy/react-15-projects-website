@@ -2,6 +2,8 @@
 
 -This website consists of 15 react projects.
 
+-Website is completely responsive.
+
 -I have used React, HTML and CSS.
 
 
@@ -11,7 +13,7 @@
 
 Screenshots from Homepage:
 
-![R1](https://github.com/MEminUlusoy/GymProject/assets/68780064/35ee3570-3065-4a26-bdaf-adce2443add1)
+![R3](https://github.com/MEminUlusoy/GymProject/assets/68780064/85f6e8de-3bd8-42b7-8a17-65c9aaa0239a)
 
 <h1>LIVE DEMO</h1>
 
