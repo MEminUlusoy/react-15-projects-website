@@ -2,7 +2,7 @@ import React from 'react'
 
 function Navbar() {
   return (
-    <div className='h-[10%] w-full  bg-blue-400 flex'>
+    <div className='h-[7%] w-full  bg-blue-400 flex'>
         <div className="h-full w-3/5 flex items-center justify-start pl-12  ">
             <i className="fa-solid fa-user text-lg text-white"></i>
             <h1 className='text-white font-f1 font-bold text-base ml-3 '>Muhammed Emin Ulusoy</h1>
